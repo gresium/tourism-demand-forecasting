@@ -56,7 +56,7 @@ Export models into a FastAPI / Streamlit API
 Deploy forecasting service to cloud
 
 Author
-Developed by Gresa Hisa (@gresium) — AI & Cybersecurity Engineer | AI & Machine Learning Specialist
+Developed by Gresa Hisa (@gresium) — AI & Cybersecurity Engineer 
 GitHub: https://github.com/gresium
 
 
